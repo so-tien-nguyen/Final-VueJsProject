@@ -1,0 +1,11 @@
+D:\Source Code\sovn-vuets\bin\Debug\netcoreapp2.0\sovn-vuets.deps.json
+D:\Source Code\sovn-vuets\bin\Debug\netcoreapp2.0\sovn-vuets.runtimeconfig.json
+D:\Source Code\sovn-vuets\bin\Debug\netcoreapp2.0\sovn-vuets.runtimeconfig.dev.json
+D:\Source Code\sovn-vuets\bin\Debug\netcoreapp2.0\sovn-vuets.dll
+D:\Source Code\sovn-vuets\bin\Debug\netcoreapp2.0\sovn-vuets.pdb
+D:\Source Code\sovn-vuets\obj\Debug\netcoreapp2.0\sovn-vuets.csprojAssemblyReference.cache
+D:\Source Code\sovn-vuets\obj\Debug\netcoreapp2.0\sovn-vuets.csproj.CoreCompileInputs.cache
+D:\Source Code\sovn-vuets\obj\Debug\netcoreapp2.0\sovn-vuets.AssemblyInfoInputs.cache
+D:\Source Code\sovn-vuets\obj\Debug\netcoreapp2.0\sovn-vuets.AssemblyInfo.cs
+D:\Source Code\sovn-vuets\obj\Debug\netcoreapp2.0\sovn-vuets.dll
+D:\Source Code\sovn-vuets\obj\Debug\netcoreapp2.0\sovn-vuets.pdb

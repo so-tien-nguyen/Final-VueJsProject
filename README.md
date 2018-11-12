@@ -1,1 +1,2 @@
-# Final-VueJsProject
+# sovn-vuets
+ASP.NET Core SPA Template -Vuets
